@@ -1,0 +1,18 @@
+name: stream_chat_example
+description: A new Flutter project.
+
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+  flutter: ">=3.13.0"
+
+dependencies:
+  cupertino_icons: ^1.0.5
+  flutter:
+    sdk: flutter
+  stream_chat: ^7.2.1
+
+flutter:
+  uses-material-design: true

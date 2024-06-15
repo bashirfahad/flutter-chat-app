@@ -1,0 +1,17 @@
+name: stream_chat_flutter_core_example
+description: Example app for testing stream_chat_flutter_core
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+  flutter: ">=3.13.0"
+
+dependencies:
+  cupertino_icons: ^1.0.3
+  flutter:
+    sdk: flutter
+  stream_chat_flutter_core: ^7.2.1
+
+flutter:
+  uses-material-design: true
